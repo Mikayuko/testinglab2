@@ -23,12 +23,13 @@ Input Review
     [Arguments]     ${REVIEW}
     Input Text    //*[@id="review"]        ${REVIEW}
 Click Submit Button
-    Click Button      //*[@id="button-review"]
+    Click Button    //*[@id="button-review"]
    
  
 *** Test Cases ***
-Test Valid Login
+Test Review Button
     Input User Name        ${USERNAME}
     Input Email         ${EMAIL}
     Input Review        ${REVIEW}
     Click Submit Button
+    Wait Until Page Contains  Product

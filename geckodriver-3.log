@@ -1,0 +1,19 @@
+1739247187159	geckodriver	INFO	Listening on 127.0.0.1:53513
+1739247190269	mozrunner::runner	INFO	Running command: "C:\\Users\\CLASSROOM\\.cache\\selenium\\firefox\\win64\\135.0\\firefox.exe" "--marionette" "--remote-debugg ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLASSR~1\\AppData\\Local\\Temp\\rust_mozprofileDoSf2c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1739247190498	Marionette	INFO	Marionette enabled
+1739247190578	Marionette	INFO	Listening on port 53523
+WebDriver BiDi listening on ws://127.0.0.1:53514
+Read port: 53523
+1739247190710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53514/devtools/browser/3d79aaa4-f56f-491c-a039-38c742bb21d8
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1739247195788	Marionette	INFO	Stopped listening on port 53523
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202502060101/reactive_library_fy2021.js, line 58: Script terminated by timeout at:
+V/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202502060101/reactive_library_fy2021.js:58:835
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
