@@ -30,4 +30,5 @@ Click Submit Button
 Test Valid Login
     Input User Name        ${USERNAME}
     Input Email         ${EMAIL}
+    Input Review        ${REVIEW}
     Click Submit Button
